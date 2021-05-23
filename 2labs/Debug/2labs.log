@@ -1,0 +1,8 @@
+﻿  2labs.cpp
+C:\Users\ZeFFI\Desktop\программирование\Аисд\2labaratoria\2labs\HaffmanTree.h(92,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZeFFI\Desktop\программирование\Аисд\2labaratoria\2labs\2labs.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZeFFI\Desktop\программирование\Аисд\2labaratoria\2labs\2labs.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZeFFI\Desktop\программирование\Аисд\2labaratoria\2labs\2labs.cpp(58,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZeFFI\Desktop\программирование\Аисд\2labaratoria\2labs\2labs.cpp(73,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZeFFI\Desktop\программирование\Аисд\2labaratoria\2labs\RBTree.h(313): warning C4172: возвращение адреса локальной или временной переменной
+  2labs.vcxproj -> C:\Users\ZeFFI\Desktop\программирование\Аисд\2labaratoria\2labs\Debug\2labs.exe
